@@ -6,7 +6,7 @@ export interface SiteDataProps {
   author: {
     name: string;
     email: string;
-    twitter: string; // used for twitter cards when sharing a blog post on twitter
+    // twitter: string; // used for twitter cards when sharing a blog post on twitter
   };
   defaultImage: {
     src: string;
@@ -16,24 +16,24 @@ export interface SiteDataProps {
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-  name: "Horizon Photography",
+  name: "Guloklopo",
   // Your website's title and description (meta fields)
   title:
-    "Horizon - a beautiful photography website template made with Astro and Tailwind CSS",
+    "Guloklopo - Hunian kost nyaman dan asri",
   description:
-    "Get your next website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+    "Kostan menyediakan hunian kost nyaman dengan fasilitas lengkap di tengah kota Semarang.",
   useViewTransitions: true,
   // Your information!
   author: {
-    name: "Cosmic Themes",
-    email: "creator@cosmicthemes.com",
-    twitter: "Cosmic_Themes",
+    name: "Guloklopo House",
+    email: "tanya@hguloklopo.com",
+    // twitter: "Cosmic_Themes",
   },
 
   // default image for meta tags if the page doesn't have an image already
   defaultImage: {
-    src: "/images/cosmic-themes-logo.jpg",
-    alt: "Cosmic Themes logo",
+    src: "/images/icon-gulo.png",
+    alt: "Guloklopo logo",
   },
 };
 

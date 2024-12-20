@@ -9,6 +9,7 @@ import FeatureCardNumbers from "@components/FeatureCard/FeatureCardNumbers.astro
 
 interface FeatureCardData {
   largeText: string;
+  medText: string;
   description: string;
 }
 
@@ -16,20 +17,24 @@ interface FeatureCardData {
 // NOTE: You still need to manually update the heading that come before the cards
 const featureData: FeatureCardData[] = [
   {
-    largeText: "20",
-    description: `Years Experience`,
+    largeText: "3",
+    medText: "km",
+    description: `ke Simpang Lima`,
   },
   {
-    largeText: "20K",
-    description: `Photos Delivered`,
+    largeText: "1",
+    medText: "km",
+    description: `ke RS Bhayangkara`,
   },
   {
-    largeText: "310",
-    description: `Events Captured`,
+    largeText: "1",
+    medText: "km",
+    description: `ke Pusat Perbelanjaan`,
   },
   {
-    largeText: "22",
-    description: `Locations`,
+    largeText: "2",
+    medText: "km",
+    description: `ke kampus Undip`,
   },
 ];
 ---
@@ -38,8 +43,7 @@ const featureData: FeatureCardData[] = [
   <div class="mx-auto max-w-6xl px-4">
     <div class="text-prety mr-auto text-center">
       <h2 class="h2">
-        Capture your love story with an experienced, client centered
-        photographer
+       Akses kemanapun jadi lebih dekat
       </h2>
     </div>
 
@@ -51,6 +55,7 @@ const featureData: FeatureCardData[] = [
         featureData.map((feature, idx) => (
           <FeatureCardNumbers
             largeText={feature.largeText}
+            medText={feature.medText}
             description={feature.description}
           />
         ))

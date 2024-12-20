@@ -20,7 +20,7 @@ interface Props {
   portfolio: CollectionEntry<"portfolios">;
 }
 
-import headerImage from "@images/portfolio-header-crop-min.jpg";
+import headerImage from "@images/green.jpg";
 
 const { portfolio } = Astro.props as Props;
 const { title, description, date, images, clients, location, heroImage } =
@@ -122,11 +122,11 @@ const otherPortfolios = await getCollection("portfolios", (otherPortfolio) => {
     </div>
   </article>
 
-  <TestimonialQuote />
+  <!-- <TestimonialQuote /> -->
 
-  <section class="mx-auto mt-12 px-4 md:mt-16 md:max-w-5xl">
+  <!-- <section class="mx-auto mt-12 px-4 md:mt-16 md:max-w-5xl">
     <h3 class="h2 text-center">More Portfolios</h3>
     <PortfolioGrid portfolios={otherPortfolios} noTransitions />
-  </section>
-  <Contact class="mt-12" />
+  </section> -->
+  <!-- <Contact class="mt-12" /> -->
 </BaseLayout>

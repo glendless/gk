@@ -5,17 +5,18 @@
 
 interface Props {
   largeText: string;
+  medText?: string;
   description: string;
   rest?: any; // catch-all for any additional parameters, such as "aria-label"
 }
 
-const { largeText, description, ...rest } = Astro.props as Props;
+const { medText,largeText, description, ...rest } = Astro.props as Props;
 ---
 
 <div {...rest} class="flex flex-col gap-3 text-center">
-  <h3 class="font-decorative text-[8rem] leading-none text-primary-500">
-    {largeText}
-  </h3>
+  <h2 class="font-decorative text-[8rem] leading-none text-primary-500">
+    {largeText} <span class="text-[4rem]">{medText}</span>
+  </h2>
 
   <p class="description pr-2 font-heading-1 text-2xl">
     {description}

@@ -1,18 +1,17 @@
 ---
-title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
-heroImage: ./couple-9-square.jpg
-date: "Aug 5 2024"
-location: Malibu, California
-clients: [Hannah, Marco]
-images:
-  [
-    [./couple-2-min-1.jpg, ./couple-2-min-1.jpg],
-    [./rings-wood-min-1.jpg, ./seals-min-1.jpg, ./rings-wood-min-1.jpg],
-    [./couple-9-1.jpg],
-    [./cake-min-1.jpg, ./dress-min-1.jpg],
+title: Fasilitas Kamar
+description: Dilengkapi dengan kasur yang nyaman, lemari pakaian, dan kamar mandi yang bersih dan nyaman.
+heroImage: ./kamar.webp
+date: "Dec 25 2024"
+location: Semarang
+clients: [Guloklopo House]
+images: [
+    [./room-1.jpg],
+    # [./kamarmandi.jpg, ./back.jpg, ./backdoor.jpg],
+    # [./couple-9-1.jpg],
+    [./kamarmandi.jpg, ./back.jpg],
   ]
 order: 1
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Dilengkapi dengan kasur yang nyaman, lemari pakaian, dan kamar mandi yang bersih dan nyaman. Selain itu, kamar kost ini juga memiliki fasilitas lain seperti TV, AC dan waterheater yang membuat Anda merasa nyaman dan betah. Dengan lokasi yang strategis, Anda dapat dengan mudah mengakses berbagai fasilitas seperti restoran, mal, dan tempat hiburan. Selain itu, kamar kost ini juga memiliki lingkungan yang aman dan nyaman

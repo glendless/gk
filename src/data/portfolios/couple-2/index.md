@@ -1,18 +1,17 @@
 ---
-title: A beachside celebration
-description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
-heroImage: ./couple-3-square.jpg
+title: Sunset View
+description: Kami menawarkan pemandangan matahari terbenam yang menakjubkan, dengan cakrawala kota yang terlukis di latar belakang warna-warni langit.
+heroImage: ./rooftopday.jpg
 date: "Jun 12 2024"
-location: Miami, Florida
-clients: [Alex, Jeff]
-images:
-  [
-    [./couple-2-min-2.jpg, ./couple-2-min-2.jpg],
-    [./rings-wood-min-2.jpg, ./seals-min-2.jpg, ./rings-wood-min-2.jpg],
-    [./couple-9-2.jpg],
-    [./cake-min-2.jpg, ./dress-min-2.jpg],
+location: Semarang
+clients: [Guloklopo House]
+images: [
+    [./rooftop.jpg, ./rooftop3.jpg],
+    # [./rings-wood-min-2.jpg, ./seals-min-2.jpg, ./rings-wood-min-2.jpg],
+    [./rooftop2.jpg],
+    # [./cake-min-2.jpg, ./dress-min-2.jpg],
   ]
 order: 2
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Kami menawarkan pemandangan matahari terbenam yang menakjubkan, dengan cakrawala kota yang terlukis di latar belakang warna-warni langit. Cahaya hangat matahari terbenam menciptakan suasana romantis, menjadikannya tempat yang sempurna untuk bersantai dan menikmati kebersamaan satu sama lain.
