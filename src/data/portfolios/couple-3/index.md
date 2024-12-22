@@ -1,5 +1,5 @@
 ---
-title: Sudut Ruang
+title: Fasilitas Bersama
 description: Kolam renang yang luas dan jernih akan membuat Anda merasa segar dan rileks.
 heroImage: ./kolamrenang.webp
 date: "Apr 15 2024"
@@ -14,4 +14,4 @@ images: [
 order: 3
 ---
 
-Sudut ruang kenyamanan yang dilengkapi dengan kolam renang dan juga taman yang indah dan asri. Anda dapat menikmati suasana yang tenang dan nyaman di sudut ruang ini. Kolam renang yang luas dan jernih akan membuat Anda merasa segar dan rileks. Taman yang indah dan asri akan membuat Anda merasa seperti berada di alam liar. Anda dapat menikmati suasana yang romantis dengan pasangan Anda di sudut ruang ini.
+"Bayangkan setelah seharian beraktivitas, kamu bisa langsung menyegarkan diri di kolam renang yang jernih ini. Kolam renang ini hadir sebagai fasilitas bersama di Guloklopo, tempat ideal untuk melepas penat, berenang santai, atau sekadar berendam menikmati suasana. Jadikan setiap hari seperti liburan!"

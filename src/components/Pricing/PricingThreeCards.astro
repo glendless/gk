@@ -17,38 +17,44 @@ interface pricingItem {
   image: ImageMetadata; // imported image
 }
 
-import image1 from "@assets/images/couple-5-min.jpg";
-import image2 from "@assets/images/couple-6-crop.jpg";
-import image3 from "@assets/images/couple-1-square.jpg";
+import image1 from "@assets/images/camera.jpg";
+import image2 from "@assets/images/camera.jpg";
+import image3 from "@assets/images/camera.jpg";
 
 // This is designed for 3 pricing items, but can be modified to support more
 const pricingData: pricingItem[] = [
   {
-    name: "Elopement",
+    name: "Lantai Atas",
     featured: false,
-    price: 1999,
+    price: 1.850,
     features: [
-      "200+ Professionally Edited Photos",
-      "Private Online Gallery",
-      "*Additional Charge Based On Travel Distance",
-      "*Additional Charge For Videography",
+      "Smart TV 32'",
+      "Kamar Mandi dengan Water Heater",
+      "Air Conditioner",
+      "Springbed",
+      "Furniture",
+      "Wastafel",
+      "excl.  listrik",
     ],
     image: image1,
   },
   {
-    name: "Wedding",
+    name: "Lantai Bawah",
     featured: true,
-    price: 2999,
+    price: 2000,
     features: [
-      "300+ Professionally Edited Photos",
-      "Private Online Gallery",
-      "All-Day Photography Coverage",
-      "*Additional Charge For Videography",
+    "Smart TV 32'",
+      "Kamar Mandi dengan Water Heater",
+      "Air Conditioner",
+      "Springbed",
+      "Furniture",
+      "Wastafel",
+      "excl.  listrik",
     ],
     image: image2,
   },
   {
-    name: "Engagement",
+    name: "Basement",
     featured: false,
     price: 799,
     features: [
@@ -63,7 +69,7 @@ const pricingData: pricingItem[] = [
 
 <section id="pricing" class="mx-auto max-w-6xl scroll-mt-10 px-4 py-8 md:py-12">
   <div class="mx-auto max-w-6xl text-center">
-    <h2 class="h2 text-pretty uppercase">Photography Packages</h2>
+    <h2 class="h2 text-pretty uppercase">Packages</h2>
   </div>
 
   <!-- works for 3 pricing plans, adjust grid cols here to support more or less -->
@@ -105,7 +111,7 @@ const pricingData: pricingItem[] = [
             </div>
             <p class="mt-6 flex justify-center text-center font-decorative text-[5rem] leading-none text-base-800">
               ${plan.price}
-              <span class="flex h-full text-[3.5rem]">+</span>
+              {/* <span class="flex h-full text-[3.5rem]">+</span> */}
             </p>
           </div>
         </div>
@@ -113,7 +119,7 @@ const pricingData: pricingItem[] = [
     }
   </div>
 
-  <div class="mt-12 flex justify-center">
+  <!-- <div class="mt-12 flex justify-center">
     <Button href="/#contact" variant="outline" class="px-8">Get a quote</Button>
-  </div>
+  </div> -->
 </section>

@@ -13,9 +13,9 @@ interface Props {
 const { medText,largeText, description, ...rest } = Astro.props as Props;
 ---
 
-<div {...rest} class="flex flex-col gap-3 text-center">
-  <h2 class="font-decorative text-[8rem] leading-none text-primary-500">
-    {largeText} <span class="text-[4rem]">{medText}</span>
+<div {...rest} class="flex flex-col text-center gap-2">
+  <h2 class="font-decorative text-[7rem] leading-none text-primary-500">
+    {largeText} <span class="text-[4rem] ">{medText}</span>
   </h2>
 
   <p class="description pr-2 font-heading-1 text-2xl">

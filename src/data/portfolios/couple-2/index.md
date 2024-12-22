@@ -1,6 +1,6 @@
 ---
-title: Sunset View
-description: Kami menawarkan pemandangan matahari terbenam yang menakjubkan, dengan cakrawala kota yang terlukis di latar belakang warna-warni langit.
+title: Fasilitas Pendukung
+description: Rooftop garden dengan pemandangan kota, ruang terbuka hijau untuk bersantai dan melepas penat.
 heroImage: ./rooftopday.jpg
 date: "Jun 12 2024"
 location: Semarang
@@ -15,3 +15,5 @@ order: 2
 ---
 
 Kami menawarkan pemandangan matahari terbenam yang menakjubkan, dengan cakrawala kota yang terlukis di latar belakang warna-warni langit. Cahaya hangat matahari terbenam menciptakan suasana romantis, menjadikannya tempat yang sempurna untuk bersantai dan menikmati kebersamaan satu sama lain.
+
+Area parkir luas dan aman dengan pengawasan 24 jam, menjamin keamanan kendaraan Anda.

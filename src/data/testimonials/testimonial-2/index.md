@@ -1,6 +1,6 @@
 ---
-title: HANNA
-testimonial: Kost yang nyaman dan strategis, membuat saya lebih fokus kuliah sebagai mahasiswa.
-image: ./person2.jpg
+title: Aksesibilitas Utama
+testimonial: Hanya 5 menit dari Gerbang Tol Gayamsari, akses mudah dan cepat ke berbagai tujuan.
+image: ./gymsr.jpg
 order: 1
 ---

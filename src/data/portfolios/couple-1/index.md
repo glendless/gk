@@ -1,6 +1,6 @@
 ---
-title: Fasilitas Kamar
-description: Dilengkapi dengan kasur yang nyaman, lemari pakaian, dan kamar mandi yang bersih dan nyaman.
+title: Fully Furnished
+description: Kamar fully furnished dengan AC, kamar mandi dalam (air panas), tempat tidur nyaman, meja kerja, dan lemari. Semua yang Anda butuhkan untuk istirahat optimal.
 heroImage: ./kamar.webp
 date: "Dec 25 2024"
 location: Semarang
@@ -14,4 +14,6 @@ images: [
 order: 1
 ---
 
-Dilengkapi dengan kasur yang nyaman, lemari pakaian, dan kamar mandi yang bersih dan nyaman. Selain itu, kamar kost ini juga memiliki fasilitas lain seperti TV, AC dan waterheater yang membuat Anda merasa nyaman dan betah. Dengan lokasi yang strategis, Anda dapat dengan mudah mengakses berbagai fasilitas seperti restoran, mal, dan tempat hiburan. Selain itu, kamar kost ini juga memiliki lingkungan yang aman dan nyaman
+Kamar fully furnished dengan AC, kamar mandi dalam (air panas), tempat tidur nyaman, meja kerja, dan lemari. Semua yang Anda butuhkan untuk istirahat optimal.
+Lingkungan tenang dan hijau, ideal untuk istirahat dan fokus setelah seharian bekerja.
+Dapur lengkap dengan peralatan modern, siap untuk menunjang aktivitas memasak Anda.

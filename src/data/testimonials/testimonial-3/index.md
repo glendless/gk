@@ -1,6 +1,6 @@
 ---
-title: DENA
-testimonial: Karena dekat dengan tempat kerja saya sebagai seorang model dan juga dekat dengan pusat perbelanjaan. Fasilitas kost ini lengkap dan modern.
-image: ./person3.jpg
+title: Privasi dan Kebebasan
+testimonial: Akses gerbang 24 jam, memberikan kebebasan untuk aktivitas Anda tanpa batasan waktu.
+image: ./access2.jpg
 order: 1
 ---
