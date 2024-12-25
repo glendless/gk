@@ -59,4 +59,7 @@ export default defineConfig({
       },
     },
   },
+  // devOptions: {
+  //   devToolbar
+  // },
 });

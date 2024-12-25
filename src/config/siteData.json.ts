@@ -33,7 +33,7 @@ const siteData: SiteDataProps = {
   // default image for meta tags if the page doesn't have an image already
   defaultImage: {
     src: "/images/icon-gulo.png",
-    alt: "Guloklopo logo",
+    alt: "Guloklopo House logo",
   },
 };
 

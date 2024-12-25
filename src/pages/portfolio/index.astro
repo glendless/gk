@@ -1,5 +1,5 @@
 ---
-import { getCollection, render } from "astro:content";
+import { getCollection } from "astro:content";
 
 // layout
 import BaseLayout from "@layouts/BaseLayout.astro";
@@ -29,7 +29,7 @@ const portfolios = await getCollection("portfolios", ({ data }) => {
     <PortfolioGrid portfolios={portfolios} />
   </div>
 
-  <TestimonialQuote />
+  <!-- <TestimonialQuote /> -->
 
-  <Contact class="mt-12" />
+  <!-- <Contact class="mt-12" /> -->
 </BaseLayout>
